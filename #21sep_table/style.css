@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+}
+div{
+    cursor: pointer;
+       display: flex;
+    text-align: center;
+  
+    justify-content: center;
+}
+.header{
+    font-weight: 500;
+    background-color: green;
+}
+
+tr:hover{
+    color: darkgreen;
+}
